@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I have choosen Chronic Disease indicator data set for my project.This project is used to identify the most valued Data Analytics skills. Based on our studies I have categorized Data Analytics into two broad skills.
+I have choosen Chronic Disease indicator data set for my project.This project is used to identify the most valued Data Analytics skills. Based on the studies I have categorized Data Analytics into two broad skills.
 
 #### Soft Skills
 1. Communication
@@ -21,7 +21,7 @@ I have choosen Chronic Disease indicator data set for my project.This project is
 
 ### Background
 
-Center of disease control and prvention provides cross-cutting set of 203 indicators that allows state and territories to uniformly define, collect and report chronic disease data that are important to public health problem which can result in morbidity, mortility, disability and decreased quality of life. Chronic disease dataset represents 7 of the top 10 causes of death in United States. Chronic disease vary by geographic area like country and states where essential public health intervention are needed.
+Center of disease control and prevention provides cross-cutting set of 203 indicators that allows state and territories to uniformly define, collect and report chronic disease data that are important to public health problem which can result in morbidity, mortility, disability and decreased quality of life. Chronic disease dataset represents 7 of the top 10 causes of death in United States. Chronic disease vary by geographic area like country and states where essential public health intervention are needed.
 
 ### Objective
 
