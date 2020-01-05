@@ -2,17 +2,19 @@
 
 ## Introduction
 
-I have choosen Chronic Disease indicator data set for my project.This project is used to identify the most valued Data Analytics skills. Based on our studies I have categorized Data Analytics into three broad skills.
-Soft Skills
+I have choosen Chronic Disease indicator data set for my project.This project is used to identify the most valued Data Analytics skills. Based on our studies I have categorized Data Analytics into two broad skills.
+#### Soft Skills
 1. Communication
 2. Critical thinking
 3. Problem Solving
 4. Learning
 5. Data Intiuition
-Hard Skills
+#### Hard Skills
 1. Data Analysis
 2. Data Visualizatiion
-3. Tools Python,Power Bi
+#### Tools 
+1. Python (Pandas,Matplotlib,Seaborn,Numpy) 
+2. Power Bi
 
 ### Background
 
@@ -43,10 +45,10 @@ https://app.powerbi.com/groups/me/reports/c867ab44-5cb5-4a3c-bda3-5f263df21549/R
 ### Conclusion 
 
 Today only a small fraction of the United States governmental healthcare investment supports prevention and health promotion. A substantial investment in the State health departments and other health agencies must be made for a real impact. The investment needs to be such that every state in America has full complement of evidence-based programs to health and fight chronic disease especially in states like Oklahoma, West Virginia, Mississippi, Montana, Louisiana and Arkansas where premature mortalities among adults are higher, as well as the necessary resources to coordinate these programs with related activities(medicaid, CHIP). These programs must include resources for every state to address
-1 Early detection of Cancer
-2 Diabetes Prevention and Control (including prevention of kidney disease)
-3 Health Community Programs
-4 Improving physical Activity and Nutrition
-5 Tobacco prevention and Control
-6 School health and Oral Health Programs
+1. Early detection of Cancer
+2. Diabetes Prevention and Control (including prevention of kidney disease)
+3. Health Community Programs
+4. Improving physical Activity and Nutrition
+5. Tobacco prevention and Control
+6. School health and Oral Health Programs
 
