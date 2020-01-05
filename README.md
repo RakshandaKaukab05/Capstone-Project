@@ -25,7 +25,7 @@ Center of disease control and prvention provides cross-cutting set of 203 indica
 
 ### Objective
 
-The purpose of exploring this dataset is to find out motility rate and the risk factors behind these chronic disease for e.g lack of insurance,poverty, smoking, excessive use of Alcohol, poor diet, lack of  proper health screening, insufficient physical activities and so on. And also trying to find out the correlation between premature mortalities and chronic disease. Exploratory data Analysis of Chronic disease indicator data will help health authorties to implement better plans for public health
+The purpose of exploring this dataset is to find out the correlation between premature mortality rate and chronic diseases and the factors that influence them.
 
 ### Datasource
 
