@@ -21,11 +21,12 @@ I have choosen Chronic Disease indicator data set for my project.This project is
 
 ### Background
 
-Center of disease control and prvention provides cross-cutting set of 203 indicators that allows state and territories to uniformly define, collect and report chronic disease data that are important to public health problem which can result in morbidity,mortility, disability and decreased quality of life. Chronic disease dataset represents 7 of the top 10 causes of death in United States.Chronic disease vary by geographic area like country and states where essential public health intervention are needed.
+Center of disease control and prvention provides cross-cutting set of 203 indicators that allows state and territories to uniformly define, collect and report chronic disease data that are important to public health problem which can result in morbidity, mortility, disability and decreased quality of life. Chronic disease dataset represents 7 of the top 10 causes of death in United States. Chronic disease vary by geographic area like country and states where essential public health intervention are needed.
 
 ### Objective
 
 The purpose of exploring this dataset is to find out the correlation between premature mortality rate and chronic diseases and the factors that influence them.
+This data analysis also incorporates deaths from chronic disease of each state by gender and race between 2010 to 2016.
 
 ### Datasource
 
@@ -40,7 +41,7 @@ Inspecting 15 years data from 2001 to 2016 which has 519718 rows and 34 columns.
 Clean and remove all the missing data. Drop and rename columns according to the requirement and change data types accordingly.
 In this chart you can see the distribution of different chronic disease in this dataset.
 
-![Screen Shot 2019-12-20 at 12 10 19 PM](https://user-images.githubusercontent.com/52731910/71280850-02bca880-2322-11ea-85e1-0988b6ca748f.png)
+![Capture1](https://user-images.githubusercontent.com/52731910/71787872-74fbe100-2fe2-11ea-9847-930d4d50876c.PNG)
 
 here is some interesting findings from this data.
 
