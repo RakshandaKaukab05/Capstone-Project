@@ -12,7 +12,8 @@ I have choosen Chronic Disease indicator data set for my project.This project is
 #### Hard Skills
 1. Data Analysis
 2. Data Visualizatiion
-#### Tools 
+
+#### Tools used for Data Analysis
 1. Python (Pandas,Matplotlib,Seaborn,Numpy) 
 2. Power Bi
 
@@ -22,26 +23,26 @@ Center of disease control and prvention provides cross-cutting set of 203 indica
 
 ### Objective
 
-The purpose of exploring this dataset is to find out motility rate and the risk factors behind these chronic disease for e.g lack of insurance,poverty, smoking, excessive use of Alcohol, poor diet, lack of  proper health screening, insufficient physical activities and so on. And also trying to find out is there any correlation between Chronice diseases for e.g correlation between Chronic kidney disease and Diabetes .Exploratory data Analysis of Chronic disease indicator data will help health authorties to implement better plans for public health
+The purpose of exploring this dataset is to find out motility rate and the risk factors behind these chronic disease for e.g lack of insurance,poverty, smoking, excessive use of Alcohol, poor diet, lack of  proper health screening, insufficient physical activities and so on. And also trying to find out the correlation between premature mortalities and chronic disease. Exploratory data Analysis of Chronic disease indicator data will help health authorties to implement better plans for public health
 
 ### Datasource
+
+Here is the link of dataset
 
 https://chronicdata.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-CDI-/g4ie-h725
 
 
 ### Aproach
+
 Inspecting 15 years data from 2001 to 2016 which has 519718 rows and 34 columns.Also we have lot of missing data.
 Clean and remove all the missing data. Drop and rename columns according to the requirement and change data types accordingly.
 In this chart you can see the distribution of different chronic disease in this dataset.
 
 ![Screen Shot 2019-12-20 at 12 10 19 PM](https://user-images.githubusercontent.com/52731910/71280850-02bca880-2322-11ea-85e1-0988b6ca748f.png)
 
-also some intresting findings from this data set
+also found some interesting facts that premature mortalities is higher in Male than Female
 ![preMortality by gender](https://user-images.githubusercontent.com/52731910/71786631-02373980-2fd3-11ea-93ef-5bcea3641b9a.png)
 
-![preMortality by State](https://user-images.githubusercontent.com/52731910/71787176-40842700-2fda-11ea-8447-332fe56476d5.png)
-
-for more data visualization and some interesting findings you can refer to this dashboard in power bi
 
 https://app.powerbi.com/groups/me/reports/c867ab44-5cb5-4a3c-bda3-5f263df21549/ReportSection
 
