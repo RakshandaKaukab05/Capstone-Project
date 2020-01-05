@@ -40,14 +40,14 @@ In this chart you can see the distribution of different chronic disease in this 
 
 ![Screen Shot 2019-12-20 at 12 10 19 PM](https://user-images.githubusercontent.com/52731910/71280850-02bca880-2322-11ea-85e1-0988b6ca748f.png)
 
-also found some interesting facts that premature mortalities is higher in Male than Female
+here is some interesting findings from this data.
 
 ![preMortality by gender](https://user-images.githubusercontent.com/52731910/71786631-02373980-2fd3-11ea-93ef-5bcea3641b9a.png)
 
 ![preMortality by State](https://user-images.githubusercontent.com/52731910/71787476-f13ff580-2fdd-11ea-8f58-22b7defb065f.png)
 
 
-Here is the link of Chronic Diseases Dashboard for more intesting findings
+Here is the link of Chronic Diseases Dashboards in PowerBi for more intesting findings
 
 [Chronic Diseases Dashboard](https://app.powerbi.com/groups/me/reports/c867ab44-5cb5-4a3c-bda3-5f263df21549/ReportSection)
 
