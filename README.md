@@ -36,10 +36,13 @@ In this chart you can see the distribution of different chronic disease in this 
 
 ![Screen Shot 2019-12-20 at 12 10 19 PM](https://user-images.githubusercontent.com/52731910/71280850-02bca880-2322-11ea-85e1-0988b6ca748f.png)
 
-also some intresting findings
+also some intresting findings from this data set
 ![preMortality by gender](https://user-images.githubusercontent.com/52731910/71786631-02373980-2fd3-11ea-93ef-5bcea3641b9a.png)
 
-####Here is the link for Chronic diseases dashboards in power bi
+![preMortality by State](https://user-images.githubusercontent.com/52731910/71787176-40842700-2fda-11ea-8447-332fe56476d5.png)
+
+for more data visualization and some interesting findings you can refer to this dashboard in power bi
+
 https://app.powerbi.com/groups/me/reports/c867ab44-5cb5-4a3c-bda3-5f263df21549/ReportSection
 
 ### Conclusion 
