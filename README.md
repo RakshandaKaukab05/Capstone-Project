@@ -29,7 +29,7 @@ The purpose of exploring this dataset is to find out motility rate and the risk 
 
 Here is the link of dataset
 
-[Chronic Diseases] (https://chronicdata.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-CDI-/g4ie-h725)
+[Chronic Diseases](https://chronicdata.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-CDI-/g4ie-h725)
 
 
 ### Aproach
@@ -44,7 +44,7 @@ also found some interesting facts that premature mortalities is higher in Male t
 ![preMortality by gender](https://user-images.githubusercontent.com/52731910/71786631-02373980-2fd3-11ea-93ef-5bcea3641b9a.png)
 
 
-[PowerBi Dashboard] (https://app.powerbi.com/groups/me/reports/c867ab44-5cb5-4a3c-bda3-5f263df21549/ReportSection)
+[PowerBi Dashboard](https://app.powerbi.com/groups/me/reports/c867ab44-5cb5-4a3c-bda3-5f263df21549/ReportSection)
 
 ### Conclusion 
 
