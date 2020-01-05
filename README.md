@@ -1,14 +1,16 @@
-# How Chronic diseases Affects People's lives in USA
+# How Chronic diseases Affects People's lives in the USA
 
 ## Introduction
 
 I have choosen Chronic Disease indicator data set for my project.This project is used to identify the most valued Data Analytics skills. Based on our studies I have categorized Data Analytics into two broad skills.
+
 #### Soft Skills
 1. Communication
 2. Critical thinking
 3. Problem Solving
 4. Learning
 5. Data Intiuition
+
 #### Hard Skills
 1. Data Analysis
 2. Data Visualizatiion
