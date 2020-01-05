@@ -28,3 +28,19 @@ Clean and remove all the missing data. Drop and rename columns according to the 
 In this chart you can see the distribution of different chronic disease in this dataset.
 
 ![Screen Shot 2019-12-20 at 12 10 19 PM](https://user-images.githubusercontent.com/52731910/71280850-02bca880-2322-11ea-85e1-0988b6ca748f.png)
+
+also some intresting findings
+![preMortality by gender](https://user-images.githubusercontent.com/52731910/71786631-02373980-2fd3-11ea-93ef-5bcea3641b9a.png)
+
+####Here is the link for Chronic diseases dashboards in power bi
+https://app.powerbi.com/groups/me/reports/c867ab44-5cb5-4a3c-bda3-5f263df21549/ReportSection
+
+###Conclusion 
+Today only a small fraction of the United States governmental healthcare investment supports prevention and health promotion. A substantial investment in the State health departments and other health agencies must be made for a real impact. The investment needs to be such that every state in America has full complement of evidence-based programs to health and fight chronic disease especially in states like Oklahoma, West Virginia, Mississippi, Montana, Louisiana and Arkansas where premature mortalities among adults are higher, as well as the necessary resources to coordinate these programs with related activities(medicaid, CHIP). These programs must include resources for every state to address
+1 Early detection of Cancer
+2 Diabetes Prevention and Control (including prevention of kidney disease)
+3 Health Community Programs
+4 Improving physical Activity and Nutrition
+5 Tobacco prevention and Control
+6 School health and Oral Health Programs
+
