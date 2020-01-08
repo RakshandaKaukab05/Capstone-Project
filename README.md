@@ -52,7 +52,7 @@ here is some interesting findings from this data.
 
 Here is the link of Chronic Diseases Dashboards in PowerBi for more intesting findings
 
-[Chronic Diseases Dashboard](https://app.powerbi.com/groups/me/reports/c867ab44-5cb5-4a3c-bda3-5f263df21549/ReportSection)
+[Chronic Diseases Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWNlMzYyYzAtYTZkNC00NDI4LTkyNzUtNWVkOTBhZTUzZDU4IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
 
 ### Conclusion 
 
