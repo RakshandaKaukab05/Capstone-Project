@@ -44,13 +44,17 @@ Inspecting 15 years data from 2001 to 2016 which has 519718 rows and 34 columns.
 Clean and remove all the missing data. Drop and rename columns according to the requirement and change data types accordingly.
 In this chart you can see the distribution of different chronic disease in this dataset.
 
-![Capture1](https://user-images.githubusercontent.com/52731910/71787872-74fbe100-2fe2-11ea-9847-930d4d50876c.PNG)
+![Capture3](https://user-images.githubusercontent.com/52731910/72037005-3ffdc180-3262-11ea-92a8-273fbeb179fc.PNG)
 
-here is some interesting findings from this data.
+In this chart mortality trend in gender
 
 ![preMortality by gender](https://user-images.githubusercontent.com/52731910/71786631-02373980-2fd3-11ea-93ef-5bcea3641b9a.png)
+ 
+ this chart below showing rate of premature mortalities in different states
 
 ![preMortality by State](https://user-images.githubusercontent.com/52731910/71787476-f13ff580-2fdd-11ea-8f58-22b7defb065f.png)
+
+this chart below poverty rate and lack of insurance in different states
 
 
 Here is the link of Chronic Diseases Dashboards in PowerBi for more intesting findings
