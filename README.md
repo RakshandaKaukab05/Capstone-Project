@@ -54,20 +54,18 @@ In this chart mortality trend in gender
 
 ![preMortality by State](https://user-images.githubusercontent.com/52731910/71787476-f13ff580-2fdd-11ea-8f58-22b7defb065f.png)
 
-this chart below poverty rate and lack of insurance in different states
+this chart below showing poverty rate and lack of insurance in different states
 
+![Povery by State](https://user-images.githubusercontent.com/52731910/72037297-3fb1f600-3263-11ea-8e15-d087b13a1a1f.png)\
 
-Here is the link of Chronic Diseases Dashboards in PowerBi for more intesting findings
+## Conclusion
 
-[Chronic Diseases Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWNlMzYyYzAtYTZkNC00NDI4LTkyNzUtNWVkOTBhZTUzZDU4IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
+As this data analysis shows states have higher poverty rate and lack of insurance have also  higher premature mortalities. This analysis  supports the studies from Harvard medical school shows that 45,000 deaths annually linked to lack of health coverage. Studies found 40 percent increase risk of death among the uninsured. Every other developed nation has achieved through some form of non-profit national health insurance. Our failure to do so means that all Americans pay higher health care cost.
 
-### Conclusion 
+#### reference
+https://news.harvard.edu/gazette/story/2009/09/new-study-finds-45000-deaths-annually-linked-to-lack-of-health-coverage/
 
-Today only a small fraction of the United States governmental healthcare investment supports prevention and health promotion. A substantial investment in the State health departments and other health agencies must be made for a real impact. The investment needs to be such that every state in America has full complement of evidence-based programs to health and fight chronic disease especially in states like Oklahoma, West Virginia, Mississippi, Montana, Louisiana and Arkansas where premature mortalities among adults are higher, as well as the necessary resources to coordinate these programs with related activities(medicaid, CHIP). These programs must include resources for every state to address
-1. Early detection of Cancer
-2. Diabetes Prevention and Control (including prevention of kidney disease)
-3. Health Community Programs
-4. Improving physical Activity and Nutrition
-5. Tobacco prevention and Control
-6. School health and Oral Health Programs
+### Below is the link to Dashboards in PowerBi
+
+### [Chronic Diseases Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWNlMzYyYzAtYTZkNC00NDI4LTkyNzUtNWVkOTBhZTUzZDU4IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
 
