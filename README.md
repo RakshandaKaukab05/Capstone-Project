@@ -21,12 +21,15 @@ I have choosen Chronic Disease indicator data set for my project.This project is
 
 ### Background
 
-Center of disease control and prevention provides cross-cutting set of 203 indicators that allows state and territories to uniformly define, collect and report chronic disease data that are important to public health problem which can result in morbidity, mortility, disability and decreased quality of life. Chronic disease dataset represents 7 of the top 10 causes of death in United States. Chronic disease vary by geographic area like country and states where essential public health intervention are needed.
+Center of disease controly  and prevention provides cross-cutting set of 203 indicators that allows state and territories to uniformly define, collect and report chronic disease data that are important to public health problem which can result in morbidity, mortility, disability and decreased quality of life. Chronic disease dataset represents 7 of the top 10 causes of death in United States. Chronic disease vary by geographic area like country and states where essential public health intervention are needed.
 
 ### Objective
 
-The purpose of exploring this dataset is to find out the correlation between premature mortality rate and chronic diseases and the factors that influence them.
-This data analysis also incorporates deaths from chronic disease of each state by gender and race between 2010 to 2016.
+1. Correlation between premature mortalities among adults and chronic condition.
+2. Does poverty and lack of insurance cause premature mortalities in states ?
+3. Mortalities trend by year, gender and race.
+
+
 
 ### Datasource
 
